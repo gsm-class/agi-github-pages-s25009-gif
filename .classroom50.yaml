@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "agi"
+assignment: "github-pages"
+owner:
+  username: "s25009-gif"
+  id: 321209335
+  accepted_at: "2026-09-02T00:02:52Z"
+source:
+  owner: "gsm-class"
+  owner_id: 318515310
+  repo: "github-pages"
+  branch: "main"
